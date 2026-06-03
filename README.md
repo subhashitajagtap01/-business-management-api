@@ -1,1 +1,1 @@
-# -business-management-api
+# business-management-api
